@@ -6,6 +6,7 @@ Reducir ancho de banda sí ayuda en ambos frentes, por una cadena bastante direc
  - Menos bytes transferidos → menos trabajo en red (routers, antenas, switches, CDNs, data centers).
  - Menos CPU/JS/render en cliente y servidor → menor consumo eléctrico por visita.
  - Menor consumo eléctrico acumulado → menor huella de carbono operativa (si la red eléctrica no es 100% renovable).
+   
 Y sobre hardware:
  - Menos carga constante (CPU, RAM, I/O, radio móvil) en móviles/PCs.
  - Menos ciclos térmicos y picos de temperatura durante uso intensivo de web.
