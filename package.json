@@ -1,0 +1,10 @@
+{
+  "name": "greentech-mvp",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static page build and minify pipeline",
+  "scripts": {
+    "build": "node build.mjs",
+    "size": "node size.mjs"
+  }
+}
