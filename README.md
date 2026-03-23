@@ -24,4 +24,4 @@ He utilizado las fuentes de sistema sin Google Font.
 
 He anadido bundling y minify para maxima optimizacion(para minify he utilizado plugin de VS code, para bundling he utilizado la IA). Al hacer build se me ha creado un nuevo index.html listo para deploy. Incluso con archivo tan pequeno me ha salido uno 31% de optimizacion. Para hacer build en terminal hay que poner `npm.cmd run build` y para ver cuanto he ahorado hay que poner `node .\size.mjs`
 
-![Optimizacion total contra version original](https://imgur.com/a/R9NiCZk)
+![Optimizacion total contra version original](https://i.imgur.com/HoK3Sqn.png)
